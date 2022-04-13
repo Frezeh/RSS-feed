@@ -16,7 +16,7 @@ npm start
 npm run dev (Nodemon)
 
 # Access convert to json Route
-Access the API on [http://localhost:3000/api/v1/feed](http://localhost:3000/api/v1/feed)
+Access the convert to json API on http://localhost:3000/api/v1/feed
 ```
 
 ## App Info
